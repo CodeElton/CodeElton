@@ -22,7 +22,7 @@ I-am-CodeElton@github
 🖥️ About Me
 🎓 Currently pursuing a degree in Informatics with an emphasis on Information Systems.
 💼 Experienced in Quality Assurance and passionate about building robust and user-friendly software.
-🌟 Proficient in Python and Java, with a keen interest in exploring all aspects of software development.
+🌟 Proficient in Python and JavaScript, with a keen interest in exploring all aspects of software development.
 🎯 Aiming to create seamless and innovative applications.
 
 🎵 Music Lover
