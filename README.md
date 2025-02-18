@@ -45,3 +45,8 @@ I’m constantly exploring new technologies and trends in software development t
 
  ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/eltonmarvin_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/elton-moscoso-874797254) 
+
+
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@CodeElton/30-nites-of-code)  
+  ![@CodeElton #30NitesOfCode](https://www.codedex.io/api/petStatus?user=CodeElton)
